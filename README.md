@@ -1,4 +1,2 @@
 # BussinesAnalytics
-Projects using Power BI
-
-As part of a University course.
+Projects using Power BI. _University projects._
